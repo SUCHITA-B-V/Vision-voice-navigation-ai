@@ -38,6 +38,9 @@ Simply speak these commands to interact with the assistant:
 | "stop"              | Pause scanning    |
 | "resume"            | Resume scanning   |
 
+# Demo video 
+https://go.screenpal.com/watch/cOeqi3nZWhK
+
 # 🛠️ Technical Specifications
 Production Features
 Cross-Platform: Full support for iOS and Android.
