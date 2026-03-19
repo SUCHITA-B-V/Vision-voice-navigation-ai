@@ -41,6 +41,9 @@ Simply speak these commands to interact with the assistant:
 # Demo video 
 https://go.screenpal.com/watch/cOeqi3nZWhK
 
+# Project Presentation 
+https://drive.google.com/file/d/1NaS6je11-LwmSK2TYmwt-aeoAqC7jZZr/view?usp=drivesdk
+
 # 🛠️ Technical Specifications
 Production Features
 Cross-Platform: Full support for iOS and Android.
